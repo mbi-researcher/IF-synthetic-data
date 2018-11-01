@@ -1,4 +1,4 @@
-# Synthetic Dataset mimicking the network of intermediate filaments (IFs)
+# Synthetic Dataset mimicking the network of Intermediate Filaments (IFs)
 
 Please, use Python with Pickle library to read the ground truth graph. See example below:
 
